@@ -67,7 +67,7 @@ if (argv[1] == 'recommend_videos_for_me'):
 
 if (argv[1] == 'upload_video'):
 
-	print("preparing. . . ")
+	print("preparing. . .")
 	time.sleep(2)
 
 	if(argv[2] == 'gordon.3gp'):
