@@ -1,4 +1,4 @@
 click==6.7
 git+https://github.com/niltonvolpato/python-progressbar.git
 watson-developer-cloud==0.25.1
-PyYAML==3.12
+PyYAML==5.4

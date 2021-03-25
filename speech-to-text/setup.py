@@ -67,7 +67,7 @@ setup(
         "progressbar",
         "click==6.7",
         "watson-developer-cloud==0.25.1",
-        "PyYAML==3.12"
+        "PyYAML==5.4"
     ],
     dependency_links=[
         "https://github.com/niltonvolpato/python-progressbar/tarball/master#egg=progressbar"
